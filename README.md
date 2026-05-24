@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-💻 Web Developer with experience in building modern web applications using Laravel, React, and Tailwind CSS.
+💻 Web Developer with experience in building modern web applications using Laravel, React, Vue and Tailwind CSS.
 
 🔭 Currently working on:
 - POS Systems
@@ -16,10 +16,9 @@
 🌱 Currently learning:
 - Node.js
 - Advanced Backend Architecture
-- Authentication & Refresh Token Systems
 
 ⚡ Fun Fact:
-> I love improving UI/UX and solving real-world business problems through code.
+> I love improving UI/UX design and solving real-world business problems through code.
 
 ---
 
@@ -38,15 +37,6 @@
 ### Database & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalaBoth28&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalaBoth28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
